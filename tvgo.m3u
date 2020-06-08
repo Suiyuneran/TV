@@ -7,6 +7,8 @@ http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=L
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvgo.oss-cn-heyuan.aliyuncs.com/LOGO/guangzhou.png" group-title="地方",广州综合
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=2&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvgo.oss-cn-heyuan.aliyuncs.com/LOGO/guangxi.png" group-title="卫视",广西新闻
+http://mobilelive.gxtv.cn/live/nn_live1007/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvgo.oss-cn-heyuan.aliyuncs.com/LOGO/nanning.png" group-title="地方",南宁新闻综合
 http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://tvgo.oss-cn-heyuan.aliyuncs.com/LOGO/cctv-news.png" group-title="央视",CCTV-13 新闻 HD
