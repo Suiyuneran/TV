@@ -3,10 +3,6 @@
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=19&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=19&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="地方",广东珠江 HD
 http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="地方",广东体育 HD
-http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvgo.oss-cn-heyuan.aliyuncs.com/LOGO/guangzhou.png" group-title="地方",广州综合
-http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=2&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvgo.oss-cn-heyuan.aliyuncs.com/LOGO/guangxi.png" group-title="卫视",广西新闻
 http://mobilelive.gxtv.cn/live/nn_live1007/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvgo.oss-cn-heyuan.aliyuncs.com/LOGO/nanning.png" group-title="地方",南宁新闻综合
